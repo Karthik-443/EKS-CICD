@@ -5,7 +5,7 @@ pipeline {
     }
     agent any
     environment {
-        registry = "150878085644.dkr.ecr.us-east-2.amazonaws.com/demo"
+        registry = "767398084596.dkr.ecr.ap-south-1.amazonaws.com/guvi"
     }
    
     stages {
